@@ -369,7 +369,7 @@ The ticket has been assigned to the online banking team.
 
 </p>
 <p>
-Assigm the ticket as Jane to work it to completion.
+Assign the ticket as Jane to work it to completion.
 </p>
 <br />
 
@@ -399,7 +399,7 @@ Replied as Jane with an update on the cause of the issue as well as the resoluti
 
 </p>
 <p>
-The thread has been updated with the resent response.
+The thread has been updated with the recent response.
 <br />
 
 <p>
@@ -408,7 +408,7 @@ The thread has been updated with the resent response.
 
 </p>
 <p>
-Change the status from "Open" to "Resolved"
+Change the status from "Open" to "Resolved".
 </p>
 <br />
 
