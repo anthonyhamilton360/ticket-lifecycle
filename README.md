@@ -448,6 +448,6 @@ Loggedin as an admin, go to Ticketstab and click on today.
 
 </p>
 <p>
-Notice that the thread was closed out by Jane.
+To conclude this lab, notice that the thread was closed out by Jane.
 </p>
 <br />
